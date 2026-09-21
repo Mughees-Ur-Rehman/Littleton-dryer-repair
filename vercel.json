@@ -1,0 +1,81 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/appliance-repair-services-dryer-repair-downtown-littleton.html",
+      "destination": "/appliance-repair-services-dryer-repair-downtown-littleton",
+      "permanent": true
+    },
+    {
+      "source": "/appliance-repair-services-dryer-repair-littleton-village.html",
+      "destination": "/appliance-repair-services-dryer-repair-littleton-village",
+      "permanent": true
+    },
+    {
+      "source": "/appliance-repair-services-dryer-repair-south-broadway.html",
+      "destination": "/appliance-repair-services-dryer-repair-south-broadway",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-belt-replacement.html",
+      "destination": "/dryer-belt-replacement",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-fire-hazard-inspection.html",
+      "destination": "/dryer-fire-hazard-inspection",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-not-heating-repair.html",
+      "destination": "/dryer-not-heating-repair",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair.html",
+      "destination": "/dryer-repair",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-vent-cleaning.html",
+      "destination": "/dryer-vent-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    }
+  ]
+}
