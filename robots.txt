@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://dryerrepairlittletonco.com/sitemap.xml
+Sitemap: https://littleton-dryer-repair.vercel.app/sitemap.xml
